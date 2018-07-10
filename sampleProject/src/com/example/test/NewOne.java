@@ -1,11 +1,9 @@
 package com.example.test;
 
-public class FirstOne {
+public class NewOne {
 
 	public static void main(String[] args) {
-
-		System.out.println("changed by new one");
-
+		System.out.println("chedke in new onee");
 	}
 
 }
