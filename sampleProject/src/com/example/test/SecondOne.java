@@ -4,7 +4,9 @@ public class SecondOne {
 
 	public static void main(String[] args) {
 
-		System.out.println("Trying revert checking in from new one");
+
+		System.out.println("Trying commit from one more should result in conflict...");
+
 
 
 
