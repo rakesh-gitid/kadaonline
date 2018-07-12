@@ -8,7 +8,6 @@ public class SecondOne {
 		System.out.println("Trying commit from one more should result in conflict...");
 
 
-
 	}
 
 }
